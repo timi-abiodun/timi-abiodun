@@ -1,16 +1,23 @@
-## Hi there 👋
+# Timi
 
-<!--
-**timi-abiodun/timi-abiodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer · Laravel · Django/DRF · Nigeria
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build backend systems — APIs, service layers, auth flows, and data models.
+
+**Stack**
+- Primary: PHP · Laravel
+- Secondary: Python · Django · Django REST Framework
+- Tools: PostgreSQL · Git · JWT
+
+**Now**
+- Refining a loyalty program backend in Laravel — applying design patterns from code review
+- Developing an Engineering Social Platform in Django/DRF
+
+**Projects**
+- [[Loyalty Program]](https://github.com/timi-abiodun/LoyaltyProgram)(#) — Laravel · PHP · Repository pattern · in progress
+- [[Engineering Social Platform]](https://github.com/timi-abiodun/engineering_platform)(#) — Django/DRF · UUID users · RBAC · service layer · in progress
+
+**Connect**
+[www.linkedin.com/in/oluwatimilehin-abiodun](#) · oluwatimilehinabiodun64@gmail.com
