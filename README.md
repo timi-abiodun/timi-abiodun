@@ -16,8 +16,8 @@ I build backend systems — APIs, service layers, auth flows, and data models.
 - Developing an Engineering Social Platform in Django/DRF
 
 **Projects**
-- [[Loyalty Program]](https://github.com/timi-abiodun/LoyaltyProgram) — Laravel · PHP · Repository pattern · in progress
-- [[Engineering Social Platform]](https://github.com/timi-abiodun/engineering_platform) — Django/DRF · UUID users · RBAC · service layer · in progress
+- [Loyalty Program](https://github.com/timi-abiodun/LoyaltyProgram) — Laravel · PHP · Repository pattern · in progress
+- [Engineering Social Platform](https://github.com/timi-abiodun/engineering_platform) — Django/DRF · UUID users · RBAC · service layer · in progress
 
 **Connect**
 [LinkedIn](https://www.linkedin.com/in/oluwatimilehin-abiodun) · [X](https://x.com/timi_builds) · oluwatimilehinabiodun64@gmail.com
