@@ -20,4 +20,4 @@ I build backend systems — APIs, service layers, auth flows, and data models.
 - [[Engineering Social Platform]](https://github.com/timi-abiodun/engineering_platform) — Django/DRF · UUID users · RBAC · service layer · in progress
 
 **Connect**
-[[LinkedIn]](www.linkedin.com/in/oluwatimilehin-abiodun) · oluwatimilehinabiodun64@gmail.com
+[LinkedIn]((www.linkedin.com/in/oluwatimilehin-abiodun)) · oluwatimilehinabiodun64@gmail.com
